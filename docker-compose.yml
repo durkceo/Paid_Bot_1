@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  paidbot2_new:
+    build: .
+    container_name: paidbot2_new
+    restart: unless-stopped
+    volumes:
+      - ./config.json:/app/config.json
+      - ./packages.json:/app/packages.json
+      - ./durkpro.db:/app/durkpro.db

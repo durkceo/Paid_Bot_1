@@ -1,0 +1,10 @@
+{
+    "BOT_TOKEN": "8840525689:AAH3e-qqVd40ve4XAnv9c1YYVGE9orGFrFI",
+    "ADMIN_ID": 8650066383,
+    "API_MODE": false,
+    "API_KEY": "36bb4cbb-25a8-46ac-8c2e-3672553fb3bf",
+    "UPDATE_LINK": "https://t.me/your_private_channel",
+    "ADMIN_IMAGE": "admin_image.jpg",
+    "USDT_BEP20_ADDRESS": "0xbd94e56fad8cd1401765c1a6e89af8f4b01eaf8b",
+    "MAX_KEY_ATTEMPTS": 3
+}
